@@ -1,0 +1,15 @@
+C:\Users\Ayan\Documents\C#\CODE\Copy String using constructor\Copy String using constructor\obj\Debug\net6.0\Copy String using constructor.csproj.AssemblyReference.cache
+C:\Users\Ayan\Documents\C#\CODE\Copy String using constructor\Copy String using constructor\obj\Debug\net6.0\Copy String using constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayan\Documents\C#\CODE\Copy String using constructor\Copy String using constructor\obj\Debug\net6.0\Copy String using constructor.AssemblyInfoInputs.cache
+C:\Users\Ayan\Documents\C#\CODE\Copy String using constructor\Copy String using constructor\obj\Debug\net6.0\Copy String using constructor.AssemblyInfo.cs
+C:\Users\Ayan\Documents\C#\CODE\Copy String using constructor\Copy String using constructor\obj\Debug\net6.0\Copy String using constructor.csproj.CoreCompileInputs.cache
+C:\Users\Ayan\Documents\C#\CODE\Copy String using constructor\Copy String using constructor\bin\Debug\net6.0\Copy String using constructor.exe
+C:\Users\Ayan\Documents\C#\CODE\Copy String using constructor\Copy String using constructor\bin\Debug\net6.0\Copy String using constructor.deps.json
+C:\Users\Ayan\Documents\C#\CODE\Copy String using constructor\Copy String using constructor\bin\Debug\net6.0\Copy String using constructor.runtimeconfig.json
+C:\Users\Ayan\Documents\C#\CODE\Copy String using constructor\Copy String using constructor\bin\Debug\net6.0\Copy String using constructor.dll
+C:\Users\Ayan\Documents\C#\CODE\Copy String using constructor\Copy String using constructor\bin\Debug\net6.0\Copy String using constructor.pdb
+C:\Users\Ayan\Documents\C#\CODE\Copy String using constructor\Copy String using constructor\obj\Debug\net6.0\Copy String using constructor.dll
+C:\Users\Ayan\Documents\C#\CODE\Copy String using constructor\Copy String using constructor\obj\Debug\net6.0\refint\Copy String using constructor.dll
+C:\Users\Ayan\Documents\C#\CODE\Copy String using constructor\Copy String using constructor\obj\Debug\net6.0\Copy String using constructor.pdb
+C:\Users\Ayan\Documents\C#\CODE\Copy String using constructor\Copy String using constructor\obj\Debug\net6.0\Copy String using constructor.genruntimeconfig.cache
+C:\Users\Ayan\Documents\C#\CODE\Copy String using constructor\Copy String using constructor\obj\Debug\net6.0\ref\Copy String using constructor.dll

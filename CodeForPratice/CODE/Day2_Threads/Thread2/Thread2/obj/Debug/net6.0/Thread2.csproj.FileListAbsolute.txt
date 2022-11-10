@@ -1,0 +1,15 @@
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread2\Thread2\bin\Debug\net6.0\Thread2.exe
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread2\Thread2\bin\Debug\net6.0\Thread2.deps.json
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread2\Thread2\bin\Debug\net6.0\Thread2.runtimeconfig.json
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread2\Thread2\bin\Debug\net6.0\Thread2.dll
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread2\Thread2\bin\Debug\net6.0\Thread2.pdb
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread2\Thread2\obj\Debug\net6.0\Thread2.csproj.AssemblyReference.cache
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread2\Thread2\obj\Debug\net6.0\Thread2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread2\Thread2\obj\Debug\net6.0\Thread2.AssemblyInfoInputs.cache
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread2\Thread2\obj\Debug\net6.0\Thread2.AssemblyInfo.cs
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread2\Thread2\obj\Debug\net6.0\Thread2.csproj.CoreCompileInputs.cache
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread2\Thread2\obj\Debug\net6.0\Thread2.dll
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread2\Thread2\obj\Debug\net6.0\refint\Thread2.dll
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread2\Thread2\obj\Debug\net6.0\Thread2.pdb
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread2\Thread2\obj\Debug\net6.0\Thread2.genruntimeconfig.cache
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread2\Thread2\obj\Debug\net6.0\ref\Thread2.dll

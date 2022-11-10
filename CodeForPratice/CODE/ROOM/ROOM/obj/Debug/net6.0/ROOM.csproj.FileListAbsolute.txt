@@ -1,0 +1,15 @@
+C:\Users\Ayan\Documents\C#\CODE\ROOM\ROOM\bin\Debug\net6.0\ROOM.exe
+C:\Users\Ayan\Documents\C#\CODE\ROOM\ROOM\bin\Debug\net6.0\ROOM.deps.json
+C:\Users\Ayan\Documents\C#\CODE\ROOM\ROOM\bin\Debug\net6.0\ROOM.runtimeconfig.json
+C:\Users\Ayan\Documents\C#\CODE\ROOM\ROOM\bin\Debug\net6.0\ROOM.dll
+C:\Users\Ayan\Documents\C#\CODE\ROOM\ROOM\bin\Debug\net6.0\ROOM.pdb
+C:\Users\Ayan\Documents\C#\CODE\ROOM\ROOM\obj\Debug\net6.0\ROOM.csproj.AssemblyReference.cache
+C:\Users\Ayan\Documents\C#\CODE\ROOM\ROOM\obj\Debug\net6.0\ROOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayan\Documents\C#\CODE\ROOM\ROOM\obj\Debug\net6.0\ROOM.AssemblyInfoInputs.cache
+C:\Users\Ayan\Documents\C#\CODE\ROOM\ROOM\obj\Debug\net6.0\ROOM.AssemblyInfo.cs
+C:\Users\Ayan\Documents\C#\CODE\ROOM\ROOM\obj\Debug\net6.0\ROOM.csproj.CoreCompileInputs.cache
+C:\Users\Ayan\Documents\C#\CODE\ROOM\ROOM\obj\Debug\net6.0\ROOM.dll
+C:\Users\Ayan\Documents\C#\CODE\ROOM\ROOM\obj\Debug\net6.0\refint\ROOM.dll
+C:\Users\Ayan\Documents\C#\CODE\ROOM\ROOM\obj\Debug\net6.0\ROOM.pdb
+C:\Users\Ayan\Documents\C#\CODE\ROOM\ROOM\obj\Debug\net6.0\ROOM.genruntimeconfig.cache
+C:\Users\Ayan\Documents\C#\CODE\ROOM\ROOM\obj\Debug\net6.0\ref\ROOM.dll

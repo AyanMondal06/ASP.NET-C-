@@ -1,0 +1,15 @@
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread3\Thread3\obj\Debug\net6.0\Thread3.csproj.AssemblyReference.cache
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread3\Thread3\obj\Debug\net6.0\Thread3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread3\Thread3\obj\Debug\net6.0\Thread3.AssemblyInfoInputs.cache
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread3\Thread3\obj\Debug\net6.0\Thread3.AssemblyInfo.cs
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread3\Thread3\obj\Debug\net6.0\Thread3.csproj.CoreCompileInputs.cache
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread3\Thread3\bin\Debug\net6.0\Thread3.exe
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread3\Thread3\bin\Debug\net6.0\Thread3.deps.json
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread3\Thread3\bin\Debug\net6.0\Thread3.runtimeconfig.json
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread3\Thread3\bin\Debug\net6.0\Thread3.dll
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread3\Thread3\bin\Debug\net6.0\Thread3.pdb
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread3\Thread3\obj\Debug\net6.0\Thread3.dll
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread3\Thread3\obj\Debug\net6.0\refint\Thread3.dll
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread3\Thread3\obj\Debug\net6.0\Thread3.pdb
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread3\Thread3\obj\Debug\net6.0\Thread3.genruntimeconfig.cache
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\Thread3\Thread3\obj\Debug\net6.0\ref\Thread3.dll

@@ -1,0 +1,15 @@
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\just a try\just a try\obj\Debug\net6.0\just a try.csproj.AssemblyReference.cache
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\just a try\just a try\obj\Debug\net6.0\just a try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\just a try\just a try\obj\Debug\net6.0\just a try.AssemblyInfoInputs.cache
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\just a try\just a try\obj\Debug\net6.0\just a try.AssemblyInfo.cs
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\just a try\just a try\obj\Debug\net6.0\just a try.csproj.CoreCompileInputs.cache
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\just a try\just a try\bin\Debug\net6.0\just a try.exe
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\just a try\just a try\bin\Debug\net6.0\just a try.deps.json
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\just a try\just a try\bin\Debug\net6.0\just a try.runtimeconfig.json
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\just a try\just a try\bin\Debug\net6.0\just a try.dll
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\just a try\just a try\bin\Debug\net6.0\just a try.pdb
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\just a try\just a try\obj\Debug\net6.0\just a try.dll
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\just a try\just a try\obj\Debug\net6.0\refint\just a try.dll
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\just a try\just a try\obj\Debug\net6.0\just a try.pdb
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\just a try\just a try\obj\Debug\net6.0\just a try.genruntimeconfig.cache
+C:\Users\Ayan\Documents\C#\CODE\Day2_Threads\just a try\just a try\obj\Debug\net6.0\ref\just a try.dll

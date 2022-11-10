@@ -1,0 +1,15 @@
+C:\Users\Ayan\Documents\C#\CODE\Que2\Que2\bin\Debug\net6.0\Que2.exe
+C:\Users\Ayan\Documents\C#\CODE\Que2\Que2\bin\Debug\net6.0\Que2.deps.json
+C:\Users\Ayan\Documents\C#\CODE\Que2\Que2\bin\Debug\net6.0\Que2.runtimeconfig.json
+C:\Users\Ayan\Documents\C#\CODE\Que2\Que2\bin\Debug\net6.0\Que2.dll
+C:\Users\Ayan\Documents\C#\CODE\Que2\Que2\bin\Debug\net6.0\Que2.pdb
+C:\Users\Ayan\Documents\C#\CODE\Que2\Que2\obj\Debug\net6.0\Que2.csproj.AssemblyReference.cache
+C:\Users\Ayan\Documents\C#\CODE\Que2\Que2\obj\Debug\net6.0\Que2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayan\Documents\C#\CODE\Que2\Que2\obj\Debug\net6.0\Que2.AssemblyInfoInputs.cache
+C:\Users\Ayan\Documents\C#\CODE\Que2\Que2\obj\Debug\net6.0\Que2.AssemblyInfo.cs
+C:\Users\Ayan\Documents\C#\CODE\Que2\Que2\obj\Debug\net6.0\Que2.csproj.CoreCompileInputs.cache
+C:\Users\Ayan\Documents\C#\CODE\Que2\Que2\obj\Debug\net6.0\Que2.dll
+C:\Users\Ayan\Documents\C#\CODE\Que2\Que2\obj\Debug\net6.0\refint\Que2.dll
+C:\Users\Ayan\Documents\C#\CODE\Que2\Que2\obj\Debug\net6.0\Que2.pdb
+C:\Users\Ayan\Documents\C#\CODE\Que2\Que2\obj\Debug\net6.0\Que2.genruntimeconfig.cache
+C:\Users\Ayan\Documents\C#\CODE\Que2\Que2\obj\Debug\net6.0\ref\Que2.dll
